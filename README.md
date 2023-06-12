@@ -1,3 +1,5 @@
+This project served as a way to learn UseStates in React, 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
